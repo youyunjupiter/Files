@@ -1,3 +1,7 @@
+
+https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-r/  
+
+
 # Files
 
 http://essay.utwente.nl/61317/1/MSc_CZ_Michorius.pdf 
